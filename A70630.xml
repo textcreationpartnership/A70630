@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Motion humbly presented to the consideration of the honourable, the committee of the high court of Parliament consisting of 18 queres concerning the Booke of common-prayer : October 8, 1641 : as also an honourable speech made by Mr. Pymme.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70630</idno>
+            <idno type="STC">Wing M2939</idno>
+            <idno type="STC">ESTC R13528</idno>
+            <idno type="EEBO-CITATION">12847806</idno>
+            <idno type="OCLC">ocm 12847806</idno>
+            <idno type="VID">94473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94473)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 255:E172, no 29 or 1099:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Motion humbly presented to the consideration of the honourable, the committee of the high court of Parliament consisting of 18 queres concerning the Booke of common-prayer : October 8, 1641 : as also an honourable speech made by Mr. Pymme.</title>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Walker,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>This work is found as Wing M2939 at reel 255:E.172, no. 29, and as Wing P4272 (number cancelled in Wing CD-ROM, 1996) at reel 1099:10.</note>
+                  <note>Reproduction of originals in the Thomason Collection, British Library, and the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94473:1"/>
+            <p>
+               <pb facs="tcp:94473:1" rendition="simple:additions"/> A MOTION <hi>Humbly preſented</hi> To the Consideration of the Ho<g ref="char:EOLhyphen"/>nourable, the <hi>Committee</hi> of the high Court of PARLIAMENT.</p>
+            <p>
+               <hi>Conſiſting of 18. queres, concerning the Books of</hi> COMMON-<hi>PRAYER.</hi>
+            </p>
+            <p>
+               <hi>October</hi> 8. 1641.</p>
+            <p>As alſo, an Honourable SPEECH, Made by Mr, Pymme.</p>
+            <p>
+               <hi>Printed for H. Walker,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:94473:2" rendition="simple:additions"/>
+            <pb facs="tcp:94473:2"/>
+            <head>QVAERIES Concerning the Booke of <hi>Common prayer.</hi>
+            </head>
+            <p n="1">1. WHether the Preface before the Booke of
+<hi>Common-Prayer,</hi> doth not ſufficiently prove that the intent of thoſe, by whom that Forme was eſtabliſhed, were fully reſolved, that afterwards in conveniency of time, it ſhould be altered? <hi>Publiſhed in the dayes Edward the 6.</hi>
+            </p>
+            <p n="2">2. Whether thoſe Ornaments wrought with Images upon them, <hi>as Copes in Cathedrall Churches,</hi> and thoſe Garments which the Biſhops weare of woollen, and ſome of ſilk, with linnen
+<hi>ſleeves</hi> and ſurplices worn by others of the Clergy, be warrantable by Gods Word, to be uſed in our <hi>Churches</hi> by the Clergy, as holy Veſtments? <hi>Iſay, 30. 22. Deutro. 22. 11. Levit. 19. 19. Luke 19.
+35.</hi>
+            </p>
+            <p n="3">3. Whether the Abſolution pronounced by the Miniſter to the people, after Confeſſion, be not direct Popery; and ſuch Diſcipline, as Chriſt and his Apoſtles never left to the Church? <hi>Rev.
+3. 7. Pſld. 45. 11. Iohn 1. 29.</hi>
+            </p>
+            <p n="4">4. Whether whilſt the Miniſter prayeth, the people ſhould not rather goe along with him, in what he prayeth: anſwe<g ref="char:EOLhyphen"/>ring Amen onely, or ſome ſuch Expreſſion; rather then by breakes to anſwer by reſponds: as it is ordered in the Booke of <hi>Common-Prayer? Deut. 27. Acts
+1. 24. 16. Acts 16. 25. Acts 20. 36, 37. Acts 12. 12.</hi>
+            </p>
+            <p n="5">5. Whether the Miniſter, and the people, each changing their part, at every other verſe in the reading of the <hi>Pſalms;</hi> be not contrary to the cuſtome of the <hi>Primitive Church? 1 Tim. 4. 13. Acts
+15. 31. Luke 4. 16. Heb. 2. 12.</hi>
+            </p>
+            <p n="6">6. Whether all the Canonicall Scripture, ought not rather
+<pb facs="tcp:94473:3"/> to be read through every yeare: then that onely, and the reſt left out, and part of the Apocrypha taken in, and uſed as it is? <hi>Dan. 10.
+21. Mat. 21. 4. 2. Ioh. 5. 39. 1 Cor. 16. 26.</hi>
+            </p>
+            <p n="7">7. Whither it be not a great abſurdity, to compell our
+<hi>Miniſtery</hi> to uſe ſuch Songs as are tranſlated out of the
+<hi>Popiſh Service Booke,</hi> and are not in the Scripture, though otherwiſe perhaps leſſe <hi>offenſive? as Te Deum Laudamus,</hi> in Engliſh, &amp;c.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="account">
+                        <p>
+                           <hi>The Papiſt Clergy doe delude the people with this hymne to beleeve a moſt abominable lye of a Maid in Saxony. Of whom they have placed a ſtory in their Service Booke, before the ſaid hymn. There was (ſay they) a young, and an holy Virgin in a Mo<g ref="char:EOLhyphen"/>naſtery of Nuns, and it hapned once in a great Feaſt, that (he was at matters in the quier. But becauſe her Miſtreſſe did dread her feebleneſſe, ſhe had her go reſt her in the Dortour. The maid was ſorry, and loth to goe thence, and therefore after ſhe was gone out, ſhe ab<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>de a while without the quier. And when this hymnd, wee praiſe thee, o God, was begun, ſhe ſaw (in a ſpirituall viſion) heaven open, and the ſiſters quier lift up to heaven. And when they came to ſay after. To thee all Angels cry aloud, ſhe ſaw all the Orders of Angels kneele downe, and with great reverence doe worſhip to God, ſinging with the quier. Holy, Holy, Holy, Lord God of Sab<g ref="char:EOLhyphen"/>both. And when they came to this. The glorious Company of A<g ref="char:EOLhyphen"/>poſtles praiſe thee, ſhe ſaw the Apoſtles kneele downe to God, and ſing forth with the quier. The ſame did the Prophets when they ſung. The goodly fellowſhip of the Prophets praiſe thee. And ſo of the Martyrs: And then all Confeſſors, and Virgins, joyned with them to the quier and ſang forth with them with great joy. And when the laſt verſe was in ſinging. O Lord in thee have I tru<g ref="char:EOLhyphen"/>ſted, the quier came eaſily downe againe toward the Earth, and Heaven cloſed, and that heavenly blisfull Company was ſeen no longer.</hi>
+                        </p>
+                        <argument>
+                           <p>This blaſphemous lye is related in thrir Popiſh Service Booke.</p>
+                        </argument>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p n="8">
+               <pb facs="tcp:94473:3"/>
+8. Whither to ſtand up at the repeating of the <hi>Creed,</hi> be a <hi>Ceremony of abſolute neceſſity? Acts 28. 23, 24. Ezek. 23. 26. Eph. 6. 11. Phil. 4. 1.</hi>
+            </p>
+            <p n="9">9. Whither in order of the 3. <hi>Collects,</hi> that for grace, ſhould not rather be firſt uſed, but is laſt, and after praying againſt our <hi>enemies,</hi> or for <hi>peace?</hi> And whither in that Collect for grace it be proper to call it the beginning of the day at 10. of the clock; or to call it night, at 2 or 3 in the afternoone, as it is there uſed? <hi>Exod. 22. 29. Rom. 8. 23. Rom. 11. 16. Mat. 6. 33. Ioh. 5.
+44.</hi>
+            </p>
+            <p n="10">10. Whither that <hi>expreſſion,</hi> Almighty,
+<hi>and everlaſting God, which onely workeſt great marvels, ſend downe upon our Biſhop, &amp;c.</hi> be a warrantable <hi>Prayer</hi> fit to be uſed? <hi>Mark 11. 24. Rom. 12. 12. Mat. 21. 13. 1 Pet. 3. 17. 2 Sam. 17 18,
+19, &amp;c.</hi>
+            </p>
+            <p n="11">11. Whither it be not according to the primitive Church, and after their Diſcipline rather to read the Goſpell before the Epiſtle, then after: the Goſpell being firſt preached by Chriſt himſelfe, and the Epiſtles written by the Apoſtles af<g ref="char:EOLhyphen"/>terwards? <hi>Mat. 13. 11. Marke
+13. 10. Acts 13. 24. Ioh. 19. 39. Gal. 4. 13.</hi>
+            </p>
+            <p n="12">12. Whither ſuch <hi>Iewiſh Ceremonies,</hi> as to bring Offerings to the Curate, are not utterly aboliſhed by Chriſt?
+<hi>Eph. 5. 1. 2. Heb. 10. 10. and ver. 11. 14.</hi>
+            </p>
+            <p n="13">13. Whither our almes doe deſerve any thing at Gods hand? If not, why ſhould we pray God to accept them, as is uſed in the Prayer for Chriſts Church militant here on earth, as it is titled? <hi>Mat.
+6. 1, 2, 3, 4. Rom. 3. 27, Gal. 2 16.</hi>
+            </p>
+            <p n="13">13. Whether the Miniſter is to joyne with the people to pray for Gods Heavenly grace; eſpecially, for the Con<g ref="char:EOLhyphen"/>gregation preſent as it is uſed in the ſaid prayer, and not ra<g ref="char:EOLhyphen"/>ther particularly, becauſe Gods eſpeciall Graces doe belong onely to his Elect? <hi>Ioh. 4. 10. Iſay. 37.
+21. Ezra. 10. 1, 2, 3. Acts 4. 31, 32. Iohn 17. 9. verſe 20.</hi>
+            </p>
+            <p n="15">
+               <pb facs="tcp:94473:4"/>
+15. Whether the geſture of kneeling, ought to be uſed, at the receiving of the Sacrament of the Lords Supper, rather then to fit, as the Apoſtles did; the contrary being never commanded in Gods Word, nor practiſed in the Primitive Church? <hi>Math. 26. Mar. 14 Luke 22. 1 Cor.
+11.</hi>
+            </p>
+            <p n="16">16. Whether it be of any <hi>conſequence,</hi> to demand of the Infants Godfathers, &amp; Godmothers (as they are called) whi<g ref="char:EOLhyphen"/>ther they forſake the Divell, &amp;c. or whither they <hi>beleeve</hi> in God, &amp;c. And they to anſwer in the childs behalf, as grounds of receiving the Child into the Church, and bapiizing it? <hi>Mat. 3. Acts 18. 25. Rom. 6.
+3. 1 Peter 3. 21.</hi>
+            </p>
+            <p n="17">17. Whether it be lawfull to ſigne the child on the fore<g ref="char:EOLhyphen"/>head with a <hi>Croſſe,</hi> there being no <hi>precedent</hi> for it in GODS Words, <hi>it being onely a Popiſh Ceremony? Ezek. 13. 3. Ioh, 10. 5, Mat. 15. 6. 2. Cor. 6. 6. 1 Iohn 5. 21.</hi>
+            </p>
+            <p n="18">18. Whither the child be not ſufficiently baptized, that is baptized in the name of the Father, and of the Son, &amp; of the Holy Ghoſt: that it muſt be brought to the Biſhop after to be confirmed of him? <hi>Mac. 3. 11. Mar. 1. 4. Ioh. 1. 33. 1 Cor. 1. 14, 15, 16.</hi>
+            </p>
+            <p>Many other <hi>quaerees</hi> concerning Matrimony, and con<g ref="char:EOLhyphen"/>cerning viſitation of the ſick and the Buriall of the dead, and the Churching of women might be made. But to fould up all in that one ſaying, preſenting them together in the laſt place with that expreſſion at the beginning of Commination: The words are theſe,
+<q>
+                  <hi>Brethren, in the primitive Church, there was a Godly Diſcipline, &amp;c.</hi>
+               </q>
+            </p>
+            <p>And by and by after, is ſaid againe.
+<q>
+                  <hi>In the ſtead whereof, untill the ſaid Diſcipline may bee reſtored againe (which thing is much to be wiſhed) it is thought good, that at this time in your pre<g ref="char:EOLhyphen"/>ſence, ſhall be read the geuerall Sentences, &amp;c.</hi>
+               </q>
+            </p>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:94473:4"/>
+            <head>Mr. Pym his worthy Speech in Parliament,</head>
+            <p>THE diſtempers of this Kingdome are well knowne, they need not Repetition; for though we have good Lawes, yet they want their
+<hi>Executioner:</hi> if they be executed, it is in a wrong <hi>ſenſe.</hi> I ſhall indeavour to apply a <hi>remedy co the brea<g ref="char:EOLhyphen"/>ches</hi> that are made. And to that end, I ſhall diſcover firſt the quality of, the
+<hi>Diſeaſe.</hi>
+            </p>
+            <p n="1">1. There is a Deſign to alter Law and Religion, the Parties that effect this, are <hi>Papiſts;</hi> who are obliged by a maxime in their Doctrine, that they are not able to maintain their Reli<g ref="char:EOLhyphen"/>gion but to extirpate all others.</p>
+            <p n="2">2. The ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cond is our <hi>Hierarchy,</hi> which cannot mount to the hight they ayme at, without the breach of Law.</p>
+            <p>
+               <hi>To which Religion neceſſarily joyne, that if the one, the other falls.</hi>
+            </p>
+            <p n="3">3. <hi>Agents</hi> and <hi>Penſioners</hi> to forraine States, who ſee, we cannot comply with them, if we maintain the Religion eſta<g ref="char:EOLhyphen"/>bliſhed with us, contrary to Theirs, here we intend the <hi>Spa<g ref="char:EOLhyphen"/>niſh white Gold worke,</hi> which are of moſt effect for <hi>Earthly favorites,</hi> as for petty promotion, not <hi>Conſcience.</hi> And ſuch are our Judges Spirituall and Temporall. Such are alſo our Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ellors of State, all theſe ſetled in their contrivements, that ayme at one end, and to this purpoſe they walk on foure feet, diſcountenancing of <hi>Preachers</hi> and men vertuous for Religi<g ref="char:EOLhyphen"/>on, <hi>perſecuted under the Law of Purity.</hi>
+            </p>
+            <p>
+               <hi>Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſecond is the discountenancing of Preachers of contrary diſpoſitions.</hi>
+            </p>
+            <p>3. <hi>The negotiating with the faction of Rome, by frequent Prea<g ref="char:EOLhyphen"/>ching, and inſtruction to p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>each of the abſolute Monarchy of Kings. Here follow ſeverall IIeads.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:94473:5"/> THe politicall <hi>interpretation</hi> of the law to ſerve the times, and this to impoſe <hi>taxes,</hi> with the colour of law A Judg ſaid it, when <hi>a habeas Corpus</hi> was paid for, by keeping the King in continuall want, that he may ſeeke to their Counſells for <hi>reliefe.</hi> To this purpoſe they keepe the Parliament in diſtaſte that their Counſell might be taken. The King Himſelfe is brought to this, like a woman that uſeth her ſelfe to poyſon, when ſhe might eate good meat. Search the Chronicles, and we ſhall ſee, no King ever uſed Parliaments that was brought to this want, Arbitrary proceedings in Courts of Juſtice; we have Law left to the <hi>Conſcience</hi> of a ſingle man, all Courts are now of
+<hi>Conſcience.</hi>
+            </p>
+            <p>Plotters to inſorce a warre between France and Us; that when we had well wearied one another, we might be brought to what ſcorn they pleaſed. The petition wall is only Unity, the ſuddain diſſolving of Parliaments, and puniſhing of Par<g ref="char:EOLhyphen"/>liament men, to affright us from ſpeaking what we think, one was committed, for not delivering up the Patitions of the Houſe, a Declaration which ſlandereth our procedings, as full of lyes, as letters, who would have the firſt ground to be our Example; and
+<hi>Papiſts</hi> under appearance to the King his beſt Subjects; for they contribute money to the warre, which the <hi>Proteſtants</hi> will not doe.</p>
+            <p>The other is the Military, by getting places of importance into the <hi>Papiſts</hi> hands, as who were Commanders in the late Army, but they who were ſtrong in Arms, but they, to whom their Armor is delivered contrary to the Statute.</p>
+            <p>Their indeavours are to bring in ſtrangers to be billitted upon us.</p>
+            <p>We have had no accompt of the Spaniſh Navy, and our feare is from Ireland, the next is papiſticall, that proceeds of Agents here in
+<hi>London,</hi> by whoſe deſires many <hi>Monaſteries</hi> and
+<hi>Nunneries</hi> are erected.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94473:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
